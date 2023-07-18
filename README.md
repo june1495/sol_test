@@ -6,4 +6,4 @@
    "password": "admin"
 }
 
-![Descripción de la imagen](https://ibb.co/hBKb7sd)
+![](https://i.postimg.cc/LsySGZ81/resultado1.png)
