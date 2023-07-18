@@ -5,5 +5,8 @@
    "username":"admin",
    "password": "admin"
 }
+# User 1
+![Resultado del primer usuario](https://i.postimg.cc/nVXmR4hq/resultado1.png)
 
-![](https://i.postimg.cc/nVXmR4hq/resultado1.png)
+# User 2
+![Resultado del segundo usuario](https://i.postimg.cc/v8tJKV2H/resultado2.png)
